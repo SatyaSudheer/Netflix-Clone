@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header /> renders the basic <Header /> without a background 1`] = `
+<div
+  class="header__Container-djltcn-2 gWVTNU"
+>
+  <p
+    class="header__Link-djltcn-9 cFrznk"
+  >
+    Hello I am a link!
+  </p>
+</div>
+`;
