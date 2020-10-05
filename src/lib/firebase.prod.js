@@ -6,13 +6,13 @@ import {seedDatabase } from '../seed';
 
 // we need to config here
 const config = {
-    apiKey: "AIzaSyBMzjlitXk7SHotUUgRugpbxJYQFLFOIC4",
-    authDomain: "netflix-b18fe.firebaseapp.com",
-    databaseURL: "https://netflix-b18fe.firebaseio.com",
-    projectId: "netflix-b18fe",
-    storageBucket: "netflix-b18fe.appspot.com",
-    messagingSenderId: "431188151674",
-    appId: "1:431188151674:web:de5ed92d241361dcd25ac3",
+    apiKey: "XXXXXXXXXXXXXXXXXXXX",
+    authDomain: "XXXXXXXX.firebaseapp.com",
+    databaseURL: "https://XXXXXXXX.firebaseio.com",
+    projectId: "XXXXXXXX",
+    storageBucket: "XXXXXXXX.appspot.com",
+    messagingSenderId: "XXXXXXXXXX",
+    appId: "1:XXXXXXXXXX:web:de5ed92d241361dcd25ac3",
     measurementId: "G-SVSVZ3R3NQ"
 };
 const firebase = Firebase.initializeApp(config);
